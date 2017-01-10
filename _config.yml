@@ -1,0 +1,45 @@
+typography_spectrum: 0.018717616563662887
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.5406358444597572
+  lightness: 0.6389761897735298
+  saturation: 0.6298372284509242
+  rhythmicContrast: 0.13755005900748074
+layout_spectrum: 0.9031205577775836
+author:
+  name: hello
+  email: aretecode+myfriend@gmail.com
+name: first comes love
+url: 'https://thegrid.ai/first-comes-love---/'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: thegrid
+    url: 'https://thegrid.io'
+    type: external
+  - name: hey hey
+    id: 62e6d070-f90f-45c7-b750-ed05a4d3e4d2
+    type: content
+title: then comes marriage
+content: []
+description: then comes a baby
+purpose:
+  - type: contact
+    url: 'tel:2222222'
+    label: Call 2222222
+  - type: internal
+    label: shmunday
+    item: ea86a76a-57de-4f29-baa5-6951e5d21c69
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e142e11c-883c-43ab-9c99-411e7239bb0e.png
